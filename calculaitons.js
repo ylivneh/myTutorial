@@ -4,3 +4,7 @@ function calcDivide(a,b){
 	}
 	return a/b;
 }
+
+funciton add(a,b){
+	return a+b;
+}
